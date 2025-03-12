@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Expecto Patronum :rat:"
+title                    : "Expecto Patronum :mouse:"
 title_separator          : "-"
 name                     : &name "Mengran Zhao"
 description              : &description "Research Fellow at QUB"
