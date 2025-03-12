@@ -2,6 +2,7 @@
 title: "Compact Balanced Filtering Power Divider With High Common Mode Suppression level Using Spoof Surface Plasmon Polaritons"
 collection: publications
 category: manuscripts
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-01-03
 venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology'
