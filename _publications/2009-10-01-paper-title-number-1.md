@@ -7,7 +7,7 @@ excerpt: 'This paper is published in <i>IEEE Transactions on Components, Packagi
 date: 2025-01-03
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[Download Likn](https://ieeexplore.ieee.org/abstract/document/10820865)'
+paperurl: '[Download Link](https://ieeexplore.ieee.org/abstract/document/10820865)'
 citation: 'Y. Song, J. Yu, Q. Yang, M. Zhao, G. Liu and A. Zhang, &quot;Compact Balanced Filtering Power Divider With High Common Mode Suppression level Using Spoof Surface Plasmon Polaritons,&quot; <i>IEEE Transactions on Components, Packaging and Manufacturing Technology</i>.'
 ---
 
