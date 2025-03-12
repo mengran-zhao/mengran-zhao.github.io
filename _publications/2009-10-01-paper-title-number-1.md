@@ -5,8 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Published in <i>IEEE Transactions on Components, Packaging and Manufacturing Technology</i>.'
 date: 2025-01-03
-venue: 'Journal 1'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology'
 paperurl: '[Download Link](https://ieeexplore.ieee.org/abstract/document/10820865)'
 citation: 'Y. Song, J. Yu, Q. Yang, M. Zhao, G. Liu and A. Zhang, &quot;Compact Balanced Filtering Power Divider With High Common Mode Suppression level Using Spoof Surface Plasmon Polaritons,&quot; <i>IEEE Transactions on Components, Packaging and Manufacturing Technology</i>.'
 ---
