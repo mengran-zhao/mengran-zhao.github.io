@@ -2,7 +2,7 @@
 title: "Simulations and Measurement of 2D Metamaterial Aperture Antenna"
 collection: publications
 category: conferences
-permalink: /publication/Conference-paper-1
+permalink: /publications/Conference-paper-1
 excerpt: 'The APCAP 2017 was held in Xi'an, China, from October 16 to 19, 2017.'
 date: 2017-10-16
 venue: '2017 Sixth Asia-Pacific Conference on Antennas and Propagation (APCAP)'
