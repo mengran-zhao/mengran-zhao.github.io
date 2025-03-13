@@ -3,7 +3,7 @@ title: "Wideband Oblique-Incident Spherical-Plane Wave Conversion Metalens in K-
 collection: publications
 category: conferences
 permalink: /publication/Conference-paper-3
-excerpt: "The CSQRWC2017 was held in Taiyuan, China, from July 18 to 21, 2019."
+excerpt: "The CSQRWC2019 was held in Taiyuan, China, from July 18 to 21, 2019."
 date: 2019-07-18
 venue: '2019 Cross Strait Quad-Regional Radio Science and Wireless Technology Conference (CSQRWC)'
 paperurl: 'https://doi.org/10.1109/CSQRWC.2019.8799165'
