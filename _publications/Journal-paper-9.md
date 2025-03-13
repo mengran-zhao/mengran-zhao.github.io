@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Journal-paper-9
 excerpt: ''
-date: 2018-04-27
+date: 2021-06-22
 venue: 'Journal of Physics D: Applied Physics'
 paperurl: 'https://doi.org/10.1088/1361-6463/AC0928'
 ---
