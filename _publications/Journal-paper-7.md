@@ -6,7 +6,7 @@ permalink: /publication/Journal-paper-7
 excerpt: ''
 date: 2019-12-09
 venue: 'International Journal of RF and Microwave Computer-Aided Engineering'
-paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/mmce.22055'
+paperurl: 'https://doi.org/10.1002/MMCE.22055'
 ---
 
 In this article, a wideband spherical-plane wave conversion metalens (WSPCM) working in the K-band is designed. The WSPCM consists of metamaterial elements with gradient transmission phases, which can transform the oblique-incident spherical wave to the plane wave propagating along the direction from the source to the center of the metalens. First, a five-layer metamaterial element with gradient transmission phase is designed using the Computer Simulation Technology software. Then, a metamaterial wedge consists of eight metamaterial elements with 30° phase gradient (that can deflect the incident plane wave by 30°) is designed to verify the phase modulation characteristic of the metamaterial element. Afterwards, a metalens is designed according to the digitized phase distribution of the dielectric lens. Finally, the electric field distribution of the emitted wave at different frequencies and different source locations (i.e., oblique-incident angles) is studied. The design is validated through simulations and measurements.
