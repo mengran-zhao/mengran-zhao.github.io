@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Journal-paper-3
 excerpt: ''
-date: 2017-11-15
+date: 2018-04-16
 venue: 'IEEE Antennas and Wireless Propagation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/8338069'
 ---
