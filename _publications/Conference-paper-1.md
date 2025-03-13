@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 4"
+title: "Simulations and measurement of 2D metamaterial aperture antenna"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Conference-paper-1
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
