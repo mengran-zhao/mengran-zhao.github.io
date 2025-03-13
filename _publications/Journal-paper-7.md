@@ -1,5 +1,5 @@
 ---
-title: "Design and measurement-based characterization of a K-band metalens for wideband oblique-incident spherical-plane wave conversion"
+title: "Design and Measurement-Based Characterization of a K-band Metalens for Wideband Oblique-Incident Spherical-Plane Wave Conversion"
 collection: publications
 category: manuscripts
 permalink: /publication/Journal-paper-7
