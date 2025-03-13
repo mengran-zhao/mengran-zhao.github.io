@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Journal-paper-14
 excerpt: ''
 date: 2023-08-08
-venue: **'Journal of Physics D: Applied Physics'**
+venue: 'Journal of Physics D: Applied Physics'
 paperurl: 'https://doi.org/10.1088/1361-6463/acebfe'
 ---
 
