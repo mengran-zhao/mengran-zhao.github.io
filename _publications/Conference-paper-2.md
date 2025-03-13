@@ -3,7 +3,7 @@ title: "Comparison of Three Types of Stirrers in Terms of Field Uniformity in a 
 collection: publications
 category: conferences
 permalink: /publication/Conference-paper-2
-excerpt: "The ISAPE2017 was held in Hangzhou, China, from December 03 to 06, 2018."
+excerpt: "The ISAPE2018 was held in Hangzhou, China, from December 03 to 06, 2018."
 date: 2018-12-03
 venue: '12th International Symposium on Antennas, Propagation and EM Theory (ISAPE)'
 paperurl: 'https://doi.org/10.1109/ISAPE.2018.8634222'
