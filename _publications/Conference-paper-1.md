@@ -3,7 +3,7 @@ title: "Simulations and measurement of 2D metamaterial aperture antenna"
 collection: publications
 category: conferences
 permalink: /publication/Conference-paper-1
-excerpt: 'The APCAP2017 was held in Xi(')an, China, from October 16 to 19, 2017.'
+excerpt: 'The APCAP2017 was held in Xi"'"an, China, from October 16 to 19, 2017.'
 date: 2017-10-16
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
