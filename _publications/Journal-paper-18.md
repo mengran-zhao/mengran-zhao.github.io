@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Journal-paper-18
 excerpt: ''
 date: 2024-10-07
-venue: '**Remote Sensing**'
+venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs16193726'
 ---
 
