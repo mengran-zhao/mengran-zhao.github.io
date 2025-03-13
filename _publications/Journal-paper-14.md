@@ -1,5 +1,5 @@
 ---
-title: "Metasurface Modulator Of Frequency Diverse Multi-mode OAM Beams With Equal Divergence Angle for Coincidence Imaging"
+title: "Metasurface Modulator of Frequency Diverse Multi-mode OAM Beams With Equal Divergence Angle for Coincidence Imaging"
 collection: publications
 category: manuscripts
 permalink: /publication/Journal-paper-14
