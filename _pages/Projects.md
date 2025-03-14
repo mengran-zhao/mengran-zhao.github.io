@@ -14,7 +14,7 @@ Principle Investigator
 * <b>[2019-2021]</b> 毫米波聚束随机超材料孔径天线及应用研究
   * 中央高校基本科研业务费-自由探索与创新项目 - xzy022019068
 
-Co-investigator
+Co-Investigator
 ======
 * <b>[2022-2025]</b> Solutions to Acute Threats: Compressive Imaging for Real-Time Security Screening
   * Leverhulm Trust - RL-2019-019
