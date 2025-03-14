@@ -11,28 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Science and Technology, Xi'an Jiaotong University, 2021
+* B.S. in Information Engineering, Xi'an Jiaotong University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10.2022 - 10-2025: Research Fellow
+  * School of Electronics, Electrical Engineering and Computer Science
+  * Queen's University Belfast (UK)
+  * Supervisor: [Professor Okan Yurduseven](https://sites.google.com/view/okanyurduseven/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01.2022 - 09.2022: Assistant Professor
+  * School of Information and Communication Engineering
+  * Xi'an Jiaotong University (China)
+  * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -45,4 +39,4 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
