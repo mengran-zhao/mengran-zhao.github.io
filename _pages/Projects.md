@@ -16,7 +16,7 @@ Principle Investigator
 
 Co-investigator
 ======
-* <b>2022-2025</b> Solutions to Acute Threats: Compressive Imaging for Real-Time Security Screening
+* <b>[2022-2025]</b> Solutions to Acute Threats: Compressive Imaging for Real-Time Security Screening
   * Leverhulm Trust - RL-2019-019
 
 * <b>2021-2024</b> 基于超构表面的定向随机辐射天线设计理论及应用研究
