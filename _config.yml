@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Expecto Patronum :four_leaf_clover:"
+title                    : "Expecto Patronum :mortar_board:"
 title_separator          : "-"
 name                     : &name "Mengran Zhao"
 description              : &description "Research Fellow at QUB"
