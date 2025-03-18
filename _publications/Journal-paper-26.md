@@ -13,4 +13,4 @@ This letter introduces a novel method for selecting useful measurement modes in 
 
 Citation: A. Li, **M. Zhao**, M. A. B. Abbasi and O. Yurduseven, &quot;A measurement mode selection method for computational microwave imaging,&quot; <i>IEEE Antennas Wireless Propag. Lett.</i>. vol. 23, no. 11, pp. 3382-3386, Nov. 2024.
 
-[Back :four_leaf_clover:](..)
+[Back :four_leaf_clover:](../publications/)
