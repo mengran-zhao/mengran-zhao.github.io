@@ -13,4 +13,4 @@ A near-field (NF) measurement method stemming from the microwave computational i
 
 Citation: **M. Zhao**, J. Zhang, A. Li, M. García-Fernández, G. Álvarez-Narciandi, S. Zhu and O. Yurduseven, &quot;Microwave computational imaging-based near-field measurement method,&quot; <i>IEEE Antennas Wireless Propag. Lett.</i>. vol. 23, no. 11, pp. 3392-3396, Nov. 2024.
 
-[Back](../publications/)
+[Back :four_leaf_clover:](../publications/)
