@@ -12,6 +12,8 @@
     "vendor/breakpoint/breakpoint",
 
     "themes",
+    "theme/_default",    /* include light mode */
+    "theme/_dark",       /* include dark mode */
     "theme/{{ site.site_theme | default: 'default' }}",
 
     "include/mixins",
