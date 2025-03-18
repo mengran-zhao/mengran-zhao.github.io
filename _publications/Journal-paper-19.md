@@ -13,4 +13,4 @@ In this paper, the design of a computational microwave imaging (CMI) oriented fr
 
 Citation: A. Li, **M. Zhao**, D. P. Lynch, S. Zhu, M. A. B. Abbasi and O. Yurduseven, &quot;Frequency-diverse reflection metasurface antenna design for computational microwave imaging,&quot; <i>IEEE Open J. Antennas Propag.</i>. vol. 5, no. 5, pp. 1240-1248, Oct. 2024.
 
-[Back](../publications/)
+[Back :four_leaf_clover:](../publications/)
