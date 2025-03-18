@@ -18,7 +18,7 @@ Work experience
 ------
 * 2022.10 - 2025.10: <b>Research Fellow</b>
   * School of Electronics, Electrical Engineering and Computer Science
-  * Queen's University Belfast (UK)
+  * [Queen's University Belfast](https://www.qub.ac.uk/){:target="_blank"} (UK)
   * Supervisor: [Professor Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"}
 
 * 2022.01 - 2022.09: <b>Assistant Professor</b>
