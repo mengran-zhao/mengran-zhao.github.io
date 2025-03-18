@@ -13,4 +13,4 @@ The performance of a scalar computational imaging system is inherently influence
 
 Citation: **M. Zhao**, S. Zhu, R. Sharma, A. M. Molaei, X. Chen and O. Yurduseven, &quot;Metamaterial iris-based cavity antenna for mm-Wave computational polarimetric imaging,&quot; <i>IEEE Antennas Wireless Propag. Lett.</i>. vol. 23, no. 11, pp. 3367-3371, Nov. 2024.
 
-[Back :four_leaf_clover:](../publications/)
+[Back](../publications/)
