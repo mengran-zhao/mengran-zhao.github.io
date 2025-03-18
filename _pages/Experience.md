@@ -19,12 +19,12 @@ Work experience
 * 2022.10 - 2025.10: <b>Research Fellow</b>
   * School of Electronics, Electrical Engineering and Computer Science
   * Queen's University Belfast (UK)
-  * Supervisor: [Professor Okan Yurduseven](https://sites.google.com/view/okanyurduseven/)
+  * Supervisor: [Professor Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"}
 
 * 2022.01 - 2022.09: <b>Assistant Professor</b>
   * School of Information and Communication Engineering
   * Xi'an Jiaotong University (China)
-  * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang)
+  * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"}
   
 <!-- Skills
 ======
