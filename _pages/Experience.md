@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Electronic Science and Technology, Xi'an Jiaotong University, 2021
 * B.S. in Information Engineering, Xi'an Jiaotong University, 2016
 
 Work experience
-======
+------
 * 2022.10 - 2025.10: <b>Research Fellow</b>
   * School of Electronics, Electrical Engineering and Computer Science
   * Queen's University Belfast (UK)
