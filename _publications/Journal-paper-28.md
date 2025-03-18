@@ -13,4 +13,4 @@ In this article, a compact ultra-wideband balanced filtering power divider (FPD)
 
 Citation: Y. Song, J. Yu, Q. Yang, **M. Zhao**, G. Liu and A. Zhang, &quot;Compact balanced filtering power divider with high common mode suppression level using spoof surface plasmon polaritons,&quot; <i>IEEE Trans. Compon. Packag. Manuf. Technol.</i>, early access, 2025.
 
-[Back :four_leaf_clover:](../publications/)
+[Back](../publications/)
