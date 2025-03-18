@@ -17,10 +17,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Save the user's theme preference in localStorage
         if (body.classList.contains("dark-mode")) {
-            localStorage.setItem("theme", "dark");
+            localStorage.setItem("theme", "_dark");
             themeToggleButton.innerText = "Light Mode"; // Change button text
         } else {
-            localStorage.setItem("theme", "light");
+            localStorage.setItem("theme", "_default");
             themeToggleButton.innerText = "Dark Mode"; // Change button text
         }
     });
