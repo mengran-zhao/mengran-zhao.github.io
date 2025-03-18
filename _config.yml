@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"  # "_default" for Light Theme & "_dark" for Dark Theme
+site_theme               : "_dark"  # "_default" for Light Theme & "_dark" for Dark Theme
 title                    : "Expecto Patronum :mortar_board:"
 title_separator          : "-"
 name                     : &name "Mengran Zhao"
