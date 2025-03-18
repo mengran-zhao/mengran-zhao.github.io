@@ -23,7 +23,7 @@ Work experience
 
 * 2022.01 - 2022.09: <b>Assistant Professor</b>
   * School of Information and Communication Engineering
-  * Xi'an Jiaotong University (China)
+  * [Xi'an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (China)
   * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"}
   
 <!-- Skills
