@@ -1,11 +1,10 @@
 ---
-permalink: /homepage/
+permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
-  #- /about/
-  #- /about.html
-  - /resume
+  - /about/
+  - /about.html
 ---
 
 I received my B.S. degree in Information Engineering in 2016 and the Ph.D. degree in Electronic Science and Technology in 2021 from [Xi’an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (Xi’an, China) under the supervision of [Prof. Juan Chen](https://gr.xjtu.edu.cn/en/web/chen_juan_0201){:target="_blank"}, [Prof. Anxue Zhang](https://gr.xjtu.edu.cn/en/web/anxuezhang){:target="_blank"} and [Dr. Shitao Zhu](https://gr.xjtu.edu.cn/en/web/shitaozhu){:target="_blank"}. I have been a postdoctoral Research Fellow with the [Centre for Wireless Innovation (CWI)](https://www.qub.ac.uk/research-centres/cwi/){:target="_blank"} under the supervision of [Prof. Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"} since 2022. My research spans various areas, including metamaterial theory, computational imaging, chaotic cavity-based antenna design and multi-functional metasurface applications. 
