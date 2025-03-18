@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const body = document.body;
 
     // Check localStorage for the current theme
-    if (localStorage.getItem("theme") === "dark") {
+    if (localStorage.getItem("theme") === "_dark") {
         body.classList.add("dark-mode"); // Apply dark theme
         themeToggleButton.innerText = "Light Mode"; // Change button text to Light Mode
     } else {
