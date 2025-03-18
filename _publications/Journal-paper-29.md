@@ -13,4 +13,4 @@ The rapid development of Internet of Things (IoT) has sparked significant demand
 
 Citation: **M. Zhao**, L. Wang, S. Zhu, X. Chen and O. Yurduseven, &quot;Microwave integrated sensing and imaging using reconfigurable metacavity,&quot; <i>IEEE Trans. Microwave Theory Tech.</i>, early access, 2025.
 
-[Back :four_leaf_clover:](..)
+[Back :four_leaf_clover:](../publications/)
