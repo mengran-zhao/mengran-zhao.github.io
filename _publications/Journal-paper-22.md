@@ -13,4 +13,4 @@ Polarimetric information is beneficial for enhancing the imaging quality of comp
 
 Citation: **M. Zhao**, S. Zhu, X. Chen, T. Fromenteze, Q. H. Abbasi, A. Alomainy, V. Fusco and O. Yurduseven, &quot;Three-dimensional computational polarimetric imaging with a hyperuniform frequency-diverse metacavity transceiver,&quot; <i>IEEE Trans. Instrum. Meas.</i>. vol. 73, Mar. 2024, Art. no. 8002511.
 
-[Back](../publications/)
+[Back :four_leaf_clover:](../publications/)
