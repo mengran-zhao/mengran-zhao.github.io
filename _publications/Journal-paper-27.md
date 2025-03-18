@@ -13,4 +13,4 @@ Low sidelobe levels (SLLs) in scanning synthetic beams remain a problem for coin
 
 Citation: D. Li, **M. Zhao**, Y. Nian, M. Zhang, L. Lyu, X. Chen, J. Yi and S. Zhu, &quot;Sidelobe suppression of scanning synthetic beams based on coincidence imaging array radar,&quot; <i>IEEE Trans. Antennas Propag.</i>. vol. 73, no. 1, pp. 695-700, Jan. 2025.
 
-[Back :four_leaf_clover:](..)
+[Back :four_leaf_clover:](../publications/)
