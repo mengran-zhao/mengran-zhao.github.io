@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Patents"
+title: "Patents"
 permalink: /patents/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Chinese Patent
-======
+------
 * <b>[已授权]</b> 一种单通道波束扫描探测装置及方法
   * 朱士涛，李蝶，<u>赵梦然</u>
   * 专利号：ZL202211157877.2
