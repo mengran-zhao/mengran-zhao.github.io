@@ -13,4 +13,4 @@ A dual-polarized frequency-diverse metaimager (DFM) applicable for computational
 
 Citation: **M. Zhao**, S. Zhu, T. Fromenteze, M. A. B. Abbasi, X. Chen, Y. Huang and O. Yurduseven, &quot;Dual-polarized frequency-diverse metaimager for computational polarimetric imaging,&quot; <i>IEEE Trans. Antennas Propag.</i>. vol. 72, no. 7, pp. 5479-5488, Jul. 2024.
 
-[Back :four_leaf_clover:](../publications/)
+[Back](../publications/)
