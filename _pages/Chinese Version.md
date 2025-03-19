@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文版本"
+title: "中文版"
 permalink: https://mengran-zhao-zh.github.io/
 author_profile: true
 redirect_from:
