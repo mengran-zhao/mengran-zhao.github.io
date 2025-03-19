@@ -20,7 +20,7 @@ main:
   - title: "Awards"
     url: /awards/
 
-    - title: "中文版"
+  - title: "中文版"
     url: "https://mengran-zhao-zh.github.io"
     external: true
     
