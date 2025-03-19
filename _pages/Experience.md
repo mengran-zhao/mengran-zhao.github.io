@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 Education
 ------
 * Ph.D in Electronic Science and Technology, Xi'an Jiaotong University, 2021
