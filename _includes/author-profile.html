@@ -155,7 +155,12 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+
+      <!-- Font Awesome icons / Mode Switch -->
+      {% if author.mode %}
+        <li><a href="{{ author.mode }}" target="_blank"><i class="fas fa-fw fa-moon icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Dark Mode" }}</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
