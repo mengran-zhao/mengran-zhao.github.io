@@ -34,7 +34,7 @@ Chinese Patent
   * Patent No.: ZL202010097723.3
 
 * <b>[Granted]</b> A Cavity Mode-Based Broadband Random Radiation Antenna
-  * Shitao Zhu, <u>Mengran Zhao</u>, Huilin Huangm, Mengyao Tao, Xiaoming Chen, Jianxing Li, Anxue Zhang, Juan Chen
+  * Shitao Zhu, <u>Mengran Zhao</u>, Huilin Huang, Mengyao Tao, Xiaoming Chen, Jianxing Li, Anxue Zhang, Juan Chen
   * Patent No.: ZL202010873921.4
 
 * <b>[Granted]</b> A Miniaturized Dual-Band Microstrip Circularly Polarized Antenna
