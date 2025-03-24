@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me <img src='/images/sticker_6.webp' alt='Animated Icon' style='width: 50px; height: auto;' />"
 author_profile: true
 redirect_from: 
   - /about/
