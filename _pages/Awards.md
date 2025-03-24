@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards <img src='/images/sticker_5.webp' alt='Animated Icon' style='width: 50px; height: auto;' />"
 permalink: /awards/
 author_profile: true
 redirect_from:
