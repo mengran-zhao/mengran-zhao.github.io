@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<img src='/images/sticker_1.webp' alt='Animated Icon' style='width: 50px; height: auto;' /> Experience"
+title: "Experience<img src='/images/sticker_1.webp' alt='Animated Icon' style='width: 50px; height: auto;' />"
 permalink: /experience/
 author_profile: true
 redirect_from:
