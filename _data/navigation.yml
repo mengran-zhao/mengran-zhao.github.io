@@ -5,22 +5,22 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "<img src='/images/sticker_1.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Experience"
+  - title: "Experience"
     url: /experience/
 
-  - title: "<img src='/images/sticker_2.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Projects"
+  - title: "Projects"
     url: /projects/
     
-  - title: "<img src='/images/sticker_3.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "<img src='/images/sticker_4.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Patents"
+  - title: "Patents"
     url: /patents/
 
-  - title: "<img src='/images/sticker_5.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Awards"
+  - title: "Awards"
     url: /awards/
 
-  - title: "<img src='/images/sticker_6.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> 中文版"
+  - title: "中文版"
     url: "https://mengran-zhao-zh.github.io"
     external: true
     
