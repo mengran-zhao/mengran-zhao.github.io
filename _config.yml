@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "_default"  # "_default" for Light Theme & "_dark" for Dark Theme
-title                    : "Expecto Patronum :mortar_board:"
+title                    : "Expecto Patronum 🎓"
 title_separator          : "-"
 name                     : &name "Mengran Zhao"
 description              : &description "Research Fellow at QUB"
