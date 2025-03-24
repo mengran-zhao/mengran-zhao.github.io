@@ -8,19 +8,19 @@ main:
   - title: "<img src='/images/sticker_1.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Experience"
     url: /experience/
 
-  - title: "Projects"
+  - title: "<img src='/images/sticker_2.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Projects"
     url: /projects/
     
-  - title: "Publications"
+  - title: "<img src='/images/sticker_3.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Publications"
     url: /publications/
 
-  - title: "Patents"
+  - title: "<img src='/images/sticker_4.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Patents"
     url: /patents/
 
-  - title: "Awards"
+  - title: "<img src='/images/sticker_5.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> Awards"
     url: /awards/
 
-  - title: "中文版"
+  - title: "<img src='/images/sticker_6.webp' alt='Animated Icon' style='width: 30px; height: auto;' /> 中文版"
     url: "https://mengran-zhao-zh.github.io"
     external: true
     
