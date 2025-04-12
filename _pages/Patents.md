@@ -41,6 +41,6 @@ Chinese Patent
   * Shitao Zhu, Changyi Wan, Yuchen He, <u>Mengran Zhao</u>, Hongyu Shi, Anxue Zhang, Zhuo Xu
   * Patent No.: ZL202010670048.9
 
-* <b>[Granted]</b> A Differential Computed Imaging Device and Method
+* <b>[Granted]</b> A Differential Computational Imaging Device and Method
   * Shitao Zhu, Xiaoli Dong, Yuchen He, <u>Mengran Zhao</u>, Jianxing Li, Anxue Zhang
   * Patent No.: ZL201711321143.2
