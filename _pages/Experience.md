@@ -28,8 +28,8 @@ Work experience
   * [Xi'an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (China)
   * Supervisor: [Professor Anxue Zhang](https://gr.xjtu.edu.cn/web/anxuezhang){:target="_blank"}
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=a"></script>
+<!--
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=a"></script> -->
   
 <!-- Skills
 ======
