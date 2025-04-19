@@ -15,7 +15,7 @@ I serve as a reviewer for several prestigious international journals, including 
 
 I also contribute as a regular reviewer for [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"} and [2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c5ly"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff" /></a>
 
 <!-- A data-driven personal website
 ======
