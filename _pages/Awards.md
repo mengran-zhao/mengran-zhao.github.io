@@ -28,7 +28,7 @@ redirect_from:
 2019
 ------
 * The China Graduate Electronics Design Contest - Second Prize (Northwest Division)
-* 1st National Conference on Metamaterials - Academic Rising Star Award for Graduate Students in Metamaterials Research
+* 1st National Conference on Metamaterials - Award for Graduate Students in Metamaterials Research
 
 2018
 ------
