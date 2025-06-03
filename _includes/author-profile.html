@@ -160,22 +160,21 @@
       <!-- Font Awesome icons / Mode Switch -->
       {% if author.mode %}
         <li><a href="{{ author.mode }}"><i class="fas fa-fw fa-moon icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].mode_label | default: "Dark Mode" }}</a></li>
-      {% endif %}          
-    </ul>
-  </div>
+      {% endif %}
 
-  <!-- Record Visit -->
-  {% if site.clustrmaps.enabled %}
-    <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps.script_url }}"></script>
-    <style>
-    #clustrmaps-widget {
-      transform: scale(1);
-      transform-origin: top left;
-      margin-top: 30px;
-      margin-left: -200px;
-    }
-  </style>
-  {% endif %}
-  
+      <!-- Record Visit -->
+      {% if site.clustrmaps.enabled %}
+        <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps.script_url }}"></script>
+        <style>
+        #clustrmaps-widget {
+          transform: scale(1);
+          transform-origin: top left;
+          margin-top: 30px;
+          margin-left: -200px;
+        }
+      </style>
+    {% endif %}
+    </ul>
+  </div>  
 </div>
 
