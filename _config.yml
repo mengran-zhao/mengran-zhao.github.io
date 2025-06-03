@@ -77,7 +77,7 @@ author:
 
   # Mode Switch
   mode             : "https://mengran-zhao-dark.github.io"
-  clustrmaps.enabled: true
+  clustrmaps       : true
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
