@@ -210,15 +210,18 @@
   }
 
    .clustrmaps-container {
-     text-align: left;
-     padding-top: 10px;
-     width: 100%;
-   
-     > * {
-       display: block;
-       margin-left: 0;
-       float: left;
-     }
+      display: table-cell;
+      vertical-align: top;
+      padding-left: 0px;
+      padding-right: auto;
+      text-align: left;
+      
+      @include breakpoint($large) {
+          display: block;
+          width: 100%;
+          padding-left: 0;
+          padding-right: 0;
+      }
    }
 
   &:before {
