@@ -163,10 +163,9 @@
       {% endif %}      
     </ul>
   </div>
+  <!-- Record Visit -->
+  {% if site.clustrmaps.enabled %}
+    <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps.script_url }}"></script>
+  {% endif %}
 </div>
 
-<!-- Record Visit -->
-{% if author.clustrmaps %}
-<script id="clustrmaps" type="text/javascript"
-  src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=00ccff&w=120">
-</script>
