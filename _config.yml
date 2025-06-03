@@ -78,13 +78,6 @@ author:
   # Mode Switch
   mode             : "https://mengran-zhao-dark.github.io"
 
-  # Record Visit
-  <div style="text-align: center; margin-top: 2em;">
-  <script type="text/javascript" id="clustrmaps" 
-    src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=a">
-  </script>
-  </div>
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
