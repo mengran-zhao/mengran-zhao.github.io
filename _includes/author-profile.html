@@ -165,10 +165,16 @@
   </div>
     <!-- Record Visit -->
   {% if site.clustrmaps.enabled %}
-    <script id="clustrmaps" type="text/javascript" src="{{ site.clustrmaps.script_url }}"></script>
+    <div style="text-align: left; padding-left: 1rem;">
+      <script id="clustrmaps" type="text/javascript" src="{{ site.clustrmaps.script_url }}"></script>
+    </div>
     <style>
-        #clustrmaps-widget {
-        margin-left: 1px;
+      #clustrmaps-widget {
+        margin-left: 0 !important;
+        margin-right: auto !important;
+        display: block !important;
+        transform: scale(0.85);
+        transform-origin: top left;
       }
     </style>
   {% endif %}
