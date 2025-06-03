@@ -15,10 +15,15 @@ I serve as a reviewer for several prestigious international journals, including 
 
 I also contribute as a regular reviewer for [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"} and [2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
 
-<span id="busuanzi_container_site_pv">
-  本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S6LE06JQLR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S6LE06JQLR');
+</script>
 
 <!-- A data-driven personal website
 ======
