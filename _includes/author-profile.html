@@ -164,15 +164,17 @@
 
       <!-- Record Visit -->
       {% if author.clustrmaps %}
-      <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=a"></script>
+      <div style="text-align: left;">
+      <script id="clustrmaps" type="text/javascript"
+      src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=00ccff&w=120">
+      </script>
+      </div>
+
       <style>
       #clustrmaps-widget {
-        transform: scale(0.5);
-        transform-origin: top left;
-        margin: 50px 0 !important;
         margin-left: 0 !important;
+        margin-right: auto !important;
         display: block !important;
-        float: left !important;
       }
       </style>
       {% endif %}
