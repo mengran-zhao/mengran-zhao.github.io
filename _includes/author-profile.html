@@ -163,15 +163,11 @@
       {% endif %}
     </ul>
   </div>
-  <!-- Record Visit -->
-      {% if site.clustrmaps.enabled %}
-        <script type="text/javascript" id="clustrmaps" src="{{ site.clustrmaps.script_url }}"></script>
-        <style>
-        #clustrmaps-widget {
-          margin-top: 30px;
-          margin-right: 200px;
-        }
-      </style>
-    {% endif %}
 </div>
+
+{% if site.clustrmaps.enabled %}
+  <div class="clustrmaps-container" style="margin-top: 10px;">
+    <script type="text/javascript" src="{{ site.clustrmaps.script_url }}"></script>
+  </div>
+{% endif %}
 
