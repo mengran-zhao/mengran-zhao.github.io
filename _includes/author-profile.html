@@ -160,26 +160,24 @@
       <!-- Font Awesome icons / Mode Switch -->
       {% if author.mode %}
         <li><a href="{{ author.mode }}"><i class="fas fa-fw fa-moon icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].mode_label | default: "Dark Mode" }}</a></li>
-      {% endif %}
-
-      <!-- Record Visit -->
-      {% if author.clustrmaps %}
-      <li style="list-style: none;">
-        <div style="text-align: left;">
-          <script id="clustrmaps" type="text/javascript"
-            src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=00ccff&w=120">
-          </script>
-        </div>
-        <style>
-          #clustrmaps-widget {
-            margin-left: 0 !important;
-            margin-right: auto !important;
-            display: block !important;
-          }
-        </style>
-      </li>
-      {% endif %}
-      
+      {% endif %}      
     </ul>
   </div>
+<!-- Record Visit -->
+{% if author.clustrmaps %}
+<li style="list-style: none;">
+  <div style="text-align: left;">
+    <script id="clustrmaps" type="text/javascript"
+      src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=00ccff&w=120">
+    </script>
+  </div>
+  <style>
+    #clustrmaps-widget {
+      margin-left: 0 !important;
+      margin-right: auto !important;
+      display: block !important;
+    }
+  </style>
+</li>
+{% endif %}
 </div>
