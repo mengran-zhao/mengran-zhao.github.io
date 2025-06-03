@@ -209,6 +209,18 @@
     box-shadow: none;
   }
 
+   .clustrmaps-container {
+     text-align: left;
+     padding-top: 10px;
+     width: 100%;
+   
+     > * {
+       display: block;
+       margin-left: 0;
+       float: left;
+     }
+   }
+
   &:before {
     display: block;
     content: "";
