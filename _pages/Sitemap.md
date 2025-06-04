@@ -14,7 +14,7 @@ author_profile: true
 
 <style>
   #clustrmaps-widget {
-    transform: scale(0.8);
+    transform: scale(0.5);
     transform-origin: top left;
     margin-top: 10px;
   }
