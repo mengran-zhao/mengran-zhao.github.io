@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ------
-<div style="margin-top: 10px;">
-  <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=600"></script>
+<div style="margin-top: 10px; text-align: left;">
+  <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=sBXO5xvCxmJtaZs2obVmWao2pY2MGpJX3gC8oFRHfp8&cl=ffffff&w=800"></script>
 </div>
 
 {% for post in site.publications %}
