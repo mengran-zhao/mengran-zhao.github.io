@@ -23,7 +23,7 @@ Chinese Patent
 
 * <b>[Granted]</b> A Millimeter-Wave Frequency-Polarization-Diverse Multi-Port Bunching Antenna
   * Shitao Zhu, <u>Mengran Zhao</u>, Mengyao Tao, Huilin Huang, Anxue Zhang, Juan Chen
-  * Patent No.: ZL2021100776703.3
+  * Patent No.: ZL202110077670.3
 
 * <b>[Granted]</b> An Ultra-Wideband High-Capacity Terahertz Metamaterial Random Radiation Antenna
   * Shitao Zhu, <u>Mengran Zhao</u>, Yuchen He, Changyi Wan, Hongyu Shi, Jianxing Li, Anxue Zhang
