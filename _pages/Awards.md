@@ -11,6 +11,10 @@ redirect_from:
 
 ------
 
+2025
+------
+* IEEE AWPL - Outstanding Reviewer Award (24 out of 1300+)
+
 2024
 ------
 * IEEE AWPL - Outstanding Reviewer Award (30 out of 1300+)
