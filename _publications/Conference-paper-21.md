@@ -3,7 +3,7 @@ title: "Reconfigurable Metacavity Antenna-Based Microwave Computational Imaging"
 collection: publications
 category: conferences
 permalink: /publication/Conference-paper-21
-excerpt: "The 2025 AP-S/CNC-USNC-URSI was held in Ottawa, Canada, from July 13 to July 18, 2025."
+excerpt: "The 2025 AP-S/CNC-USNC-URSI was held in Ottawa, Canada, from July 13 to 18, 2025."
 date: 2025-12-08
 venue: '2025 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting (AP-S/CNC-USNC-URSI)'
 paperurl: 'https://doi.org/10.1109/AP-S/CNC-USNC-URSI55537.2025.11266582'
