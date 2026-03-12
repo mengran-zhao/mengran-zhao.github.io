@@ -18,6 +18,11 @@ Education
 
 Work experience
 ------
+* 2026.01 - now: <b>Research Professor</b>
+  * School of Information and Communication Engineering
+  * [Xi'an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (China)
+  * PhD Supervisor
+  
 * 2022.10 - 2025.10: <b>Research Fellow</b>
   * School of Electronics, Electrical Engineering and Computer Science
   * [Queen's University Belfast](https://www.qub.ac.uk/){:target="_blank"} (UK)
