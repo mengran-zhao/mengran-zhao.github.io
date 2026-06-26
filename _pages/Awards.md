@@ -15,7 +15,8 @@ redirect_from:
 ------
 * IEEE AWPL - Outstanding Reviewer Award (12 out of 1800+)
 * IEEE AWPL - **Lead Guest Editor** for Special Issue: *Toward Intelligent Electromagnetic Sensing: AI-Driven Hardware Designs and Applications*
-
+* IEEE Senior Member
+ 
 2025
 ------
 * IEEE AWPL - Outstanding Reviewer Award (24 out of 1800+)
