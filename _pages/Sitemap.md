@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="margin-top: 10px; text-align: left;">
   <div id="map-wrapper">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=PL_v9Z_8bVcCgMzQHyGBJBY4tNxMhZgEIuMOli41kkY"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=CoGUfslMnZAZZwd8udq8avYz7egE8ydJDB9YGtcrWRA&cl=ffffff&w=a"></script>
   </div>
 </div>
 
