@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Conference-paper-25
 excerpt: "The EuCAP2025 was held in Dublin, Ireland, from April 19 to 24, 2026."
-date: 2025-08-11
+date: 2026-08-11
 venue: '2026 20th European Conference on Antennas and Propagation (EuCAP)'
 paperurl: 'https://doi.org/10.23919/EuCAP68105.2026.11612035'
 ---
