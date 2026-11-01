@@ -11,7 +11,7 @@ redirect_from:
 
 I received my B.S. degree in Information Engineering in 2016 and the Ph.D. degree in Electronic Science and Technology in 2021 from [Xi’an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (Xi’an, China) under the supervision of [Prof. Juan Chen](https://gr.xjtu.edu.cn/en/web/chen_juan_0201){:target="_blank"}, [Prof. Anxue Zhang](https://gr.xjtu.edu.cn/en/web/anxuezhang){:target="_blank"} and [Prof. Shitao Zhu](https://gr.xjtu.edu.cn/en/web/shitaozhu){:target="_blank"}. I was a postdoctoral Research Fellow with the [Centre for Wireless Innovation (CWI)](https://www.qub.ac.uk/research-centres/cwi/){:target="_blank"}, [Queen's University Belfast](https://www.qub.ac.uk/){:target="_blank"} (Belfast, UK) under the supervision of [Prof. Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"} from 2022 to 2025. I'm currently a Research Professor in [Xi'an Jiaotong University](https://www.xjtu.edu.cn/){:target="_blank"}. My research spans various areas, including metamaterial theory, computational imaging, chaotic cavity-based antenna design and multi-functional metasurface applications. 
 
-I serve as a reviewer for several prestigious international journals, including   
+I serve as a reviewer for several prestigious international journals, including:   
 [National Science Review](https://academic.oup.com/nsr){:target="_blank"},  
 [Electromagnetic Science](https://www.emscience.org/){:target="_blank"},  
 [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8){:target="_blank"},  
@@ -52,7 +52,11 @@ I serve as a reviewer for several prestigious international journals, including
 [Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"},  
 [Photonics](https://www.mdpi.com/journal/photonics){:target="_blank"}, etc.
 
-I also contribute as a regular reviewer forconferences [20th European Conference on Antennas and Propagation (EuCAP 2027)](https://www.eucap2027.org/){:target="_blank"}, [20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"}, [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"}, and [2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
+I also contribute as a regular reviewer forconferences:  
+[20th European Conference on Antennas and Propagation (EuCAP 2027)](https://www.eucap2027.org/){:target="_blank"},  
+[20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"},  
+[19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"},  
+[2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
 
 
 <!-- A data-driven personal website
