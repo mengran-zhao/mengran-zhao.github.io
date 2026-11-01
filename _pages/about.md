@@ -11,9 +11,49 @@ redirect_from:
 
 I received my B.S. degree in Information Engineering in 2016 and the Ph.D. degree in Electronic Science and Technology in 2021 from [Xi’an Jiaotong University](https://www.xjtu.edu.cn){:target="_blank"} (Xi’an, China) under the supervision of [Prof. Juan Chen](https://gr.xjtu.edu.cn/en/web/chen_juan_0201){:target="_blank"}, [Prof. Anxue Zhang](https://gr.xjtu.edu.cn/en/web/anxuezhang){:target="_blank"} and [Prof. Shitao Zhu](https://gr.xjtu.edu.cn/en/web/shitaozhu){:target="_blank"}. I was a postdoctoral Research Fellow with the [Centre for Wireless Innovation (CWI)](https://www.qub.ac.uk/research-centres/cwi/){:target="_blank"}, [Queen's University Belfast](https://www.qub.ac.uk/){:target="_blank"} (Belfast, UK) under the supervision of [Prof. Okan Yurduseven](https://sites.google.com/view/okanyurduseven/){:target="_blank"} from 2022 to 2025. I'm currently a Research Professor in [Xi'an Jiaotong University](https://www.xjtu.edu.cn/){:target="_blank"}. My research spans various areas, including metamaterial theory, computational imaging, chaotic cavity-based antenna design and multi-functional metasurface applications. 
 
-I serve as a reviewer for several prestigious international journals, including [IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"}, [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8){:target="_blank"}, [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22){:target="_blank"}, [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907){:target="_blank"}, [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7){:target="_blank"}, [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25){:target="_blank"}, [IEEE Transactions on Terahertz Science and Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871){:target="_blank"}, [IEEE Open Journal of Antennas and Propagation](https://ieeeaps.org/ieee-ojap){:target="_blank"}, [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234){:target="_blank"}, [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361){:target="_blank"}, [IEEE Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"}, [National Science Review](https://academic.oup.com/nsr){:target="_blank"}, [IET Microwaves, Antennas & Propagation](https://digital-library.theiet.org/journal/iet-map){:target="_blank"}, [IET Radar, Sonar & Navigation](https://digital-library.theiet.org/journal/iet-rsn){:target="_blank"}, [Journal of Physics D: Applied Physics](https://iopscience.iop.org/journal/0022-3727){:target="_blank"}, [Progress In Electromagnetics Research](https://www.jpier.org/){:target="_blank"}, [Nature Scientific Reports](https://www.nature.com/srep/){:target="_blank"}, [Remote Sensing](https://www.mdpi.com/journal/remotesensing){:target="_blank"}, [Photonics](https://www.mdpi.com/journal/photonics){:target="_blank"}, [Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"}, etc. I received the [Outstanding Reviewer Award](http://awpl.ee.cuhk.edu.hk/) from IEEE Antennas and Wireless Propagation Letters in 2024 (30/1300+), 2025 (24/1800+), and 2026 (12/1800+).
+I serve as a reviewer for several prestigious international journals, including   
+[National Science Review](https://academic.oup.com/nsr){:target="_blank"},  
+[Electromagnetic Science](https://www.emscience.org/){:target="_blank"},  
+[IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8){:target="_blank"},  
+[IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22){:target="_blank"},  
+[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907){:target="_blank"},  
+[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"},  
+[IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7){:target="_blank"},  
+[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25){:target="_blank"},  
+[IEEE Transactions on Terahertz Science and Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871){:target="_blank"},  
+[IEEE Transactions on Radar Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9931145){:target="_blank"},  
+[IEEE Transactions on Quantum Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8924785){:target="_blank"},  
+[IEEE/Optica Journal of Lightwave Technology](https://ieeephotonics.org/publications/ieee-optica-journal-of-lightwave-technology/){:target="_blank"},  
+[IEEE Journal on Selected Areas in Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49){:target="_blank"},  
+[IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10918858){:target="_blank"},  
+[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443){:target="_blank"},  
+[IEEE Journal on Multiscale and Multiphysics Computational Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274859){:target="_blank"},  
+[IEEE Open Journal of Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8566058){:target="_blank"},  
+[IEEE Open Journal of the Communications Society](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782661){:target="_blank"},  
+[IEEE Antennas and Wireless Propagation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7727){:target="_blank"},  
+[IEEE Microwave and Wireless Technology Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9944983){:target="_blank"},  
+[IEEE Wireless Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962382){:target="_blank"},  
+[IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234){:target="_blank"},  
+[IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97){:target="_blank"},  
+[IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361){:target="_blank"},  
+[IEEE Microwave Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668){:target="_blank"},  
+[IEEE Access](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639){:target="_blank"},  
+[Journal of Physics D: Applied Physics](https://iopscience.iop.org/journal/0022-3727){:target="_blank"},  
+[Physica Scripta](https://iopscience.iop.org/journal/1402-4896){:target="_blank"},  
+[Microwave and Optical Technology Letters](https://onlinelibrary.wiley.com/journal/10982760){:target="_blank"},  
+[Journal of Electromagnetic Waves and Applications](https://www.tandfonline.com/journals/tewa20){:target="_blank"},  
+[Progress In Electromagnetics Research](https://www.jpier.org/){:target="_blank"},  
+[IET Microwaves, Antennas & Propagation](https://digital-library.theiet.org/journal/iet-map){:target="_blank"},  
+[IET Radar, Sonar & Navigation](https://digital-library.theiet.org/journal/iet-rsn){:target="_blank"},  
+[Nature Scientific Reports](https://www.nature.com/srep/){:target="_blank"},  
+[Electronics Letters](https://ietresearch.onlinelibrary.wiley.com/journal/1350911X){:target="_blank"},  
+[Measurement](https://www.sciencedirect.com/journal/measurement){:target="_blank"},  
+[Remote Sensing](https://www.mdpi.com/journal/remotesensing){:target="_blank"},  
+[Sensors](https://www.mdpi.com/journal/sensors){:target="_blank"},  
+[Photonics](https://www.mdpi.com/journal/photonics){:target="_blank"}, etc.
 
-I also contribute as a regular reviewer for [20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"}, [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"} and [2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
+I also contribute as a regular reviewer forconferences [20th European Conference on Antennas and Propagation (EuCAP 2027)](https://www.eucap2027.org/){:target="_blank"}, [20th European Conference on Antennas and Propagation (EuCAP 2026)](https://www.eucap2026.org){:target="_blank"}, [19th European Conference on Antennas and Propagation (EuCAP 2025)](https://www.eucap2025.org){:target="_blank"}, and [2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting (AP-S/URSI2025)](https://2025.apsursi.org){:target="_blank"}.
+
 
 <!-- A data-driven personal website
 ======
